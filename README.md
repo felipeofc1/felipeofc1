@@ -1,4 +1,4 @@
-Boas vindas ao meu perfil 
+Bem vindos ao meu perfil 
 Meu nome é Felipe Silva
 Estou estudando no Alura
 Estou me desenvolvendo na linguagem JavaScript
